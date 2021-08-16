@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "黄阳哲，这里是 @Jacob黄阳哲 的个人博客，记录学习笔记，成为终身学习者 <br> 入门小白-数据分析|ML  "
-sidebar-avatar: /img/Avatar-huang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-huang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
